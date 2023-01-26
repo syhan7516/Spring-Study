@@ -1,2 +1,2 @@
-# Spring-Study
+# Spring Study
 Repository for Spring study
